@@ -1,0 +1,7 @@
+key,Domain,best_AUC,cells,migration
+telco,Telecom churn,0.845,60,0.259
+adult,Income,0.899,57,0.14
+corporate,Corporate rating,0.842,91,0.224
+creditrisk,Consumer loan,0.874,56,0.205
+gmsc,Retail credit,0.787,33,0.288
+taiwan,Card default,0.778,76,0.332

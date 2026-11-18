@@ -1,0 +1,25 @@
+domain,rho,sel,nscores,constraint
+Telecom churn,0.0,40/1,377,none
+Telecom churn,2.0,40/1,377,none
+Telecom churn,10.0,40/1,377,none
+Telecom churn,budget<=25scores,10/10,<=25,<=25
+Income,0.0,40/1,624,none
+Income,2.0,40/1,624,none
+Income,10.0,40/1,624,none
+Income,budget<=25scores,10/10,<=25,<=25
+Corporate rating,0.0,40/1,255,none
+Corporate rating,2.0,40/1,255,none
+Corporate rating,10.0,40/1,255,none
+Corporate rating,budget<=25scores,10/10,<=25,<=25
+Consumer loan,0.0,40/1,553,none
+Consumer loan,2.0,40/1,553,none
+Consumer loan,10.0,40/1,553,none
+Consumer loan,budget<=25scores,10/10,<=25,<=25
+Retail credit,0.0,40/1,276,none
+Retail credit,2.0,40/1,276,none
+Retail credit,10.0,40/1,276,none
+Retail credit,budget<=25scores,10/10,<=25,<=25
+Card default,0.0,40/1,302,none
+Card default,2.0,40/1,302,none
+Card default,10.0,40/1,302,none
+Card default,budget<=25scores,10/10,<=25,<=25

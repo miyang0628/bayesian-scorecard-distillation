@@ -1,0 +1,4 @@
+domain,groups,AIR,EOD_y0
+Telecom churn,"Male,Female",0.998,0.006
+Income,"Female,Male",0.669,0.186
+Card default,"male,female",0.957,0.011

@@ -1,0 +1,61 @@
+key,Domain,tau,model,appr_default
+telco,Telecom churn,0.5,teacher,0.0752
+telco,Telecom churn,0.5,distilled,0.0706
+telco,Telecom churn,0.6,teacher,0.1041
+telco,Telecom churn,0.6,distilled,0.084
+telco,Telecom churn,0.7,teacher,0.142
+telco,Telecom churn,0.7,distilled,0.1217
+telco,Telecom churn,0.8,teacher,0.1686
+telco,Telecom churn,0.8,distilled,0.1633
+telco,Telecom churn,0.9,teacher,0.2137
+telco,Telecom churn,0.9,distilled,0.2121
+adult,Income,0.5,teacher,0.0151
+adult,Income,0.5,distilled,0.0291
+adult,Income,0.6,teacher,0.0317
+adult,Income,0.6,distilled,0.0491
+adult,Income,0.7,teacher,0.0617
+adult,Income,0.7,distilled,0.0842
+adult,Income,0.8,teacher,0.1034
+adult,Income,0.8,distilled,0.1222
+adult,Income,0.9,teacher,0.1615
+adult,Income,0.9,distilled,0.1758
+corporate,Corporate rating,0.5,teacher,0.2414
+corporate,Corporate rating,0.5,distilled,0.3103
+corporate,Corporate rating,0.6,teacher,0.3115
+corporate,Corporate rating,0.6,distilled,0.3811
+corporate,Corporate rating,0.7,teacher,0.3944
+corporate,Corporate rating,0.7,distilled,0.4225
+corporate,Corporate rating,0.8,teacher,0.4554
+corporate,Corporate rating,0.8,distilled,0.4677
+corporate,Corporate rating,0.9,teacher,0.5096
+corporate,Corporate rating,0.9,distilled,0.5178
+creditrisk,Consumer loan,0.5,teacher,0.0245
+creditrisk,Consumer loan,0.5,distilled,0.0571
+creditrisk,Consumer loan,0.6,teacher,0.0327
+creditrisk,Consumer loan,0.6,distilled,0.0634
+creditrisk,Consumer loan,0.7,teacher,0.0423
+creditrisk,Consumer loan,0.7,distilled,0.0743
+creditrisk,Consumer loan,0.8,teacher,0.0627
+creditrisk,Consumer loan,0.8,distilled,0.1053
+creditrisk,Consumer loan,0.9,teacher,0.135
+creditrisk,Consumer loan,0.9,distilled,0.1586
+gmsc,Retail credit,0.5,teacher,0.0099
+gmsc,Retail credit,0.5,distilled,0.0191
+gmsc,Retail credit,0.6,teacher,0.0137
+gmsc,Retail credit,0.6,distilled,0.0227
+gmsc,Retail credit,0.7,teacher,0.0171
+gmsc,Retail credit,0.7,distilled,0.0277
+gmsc,Retail credit,0.8,teacher,0.0242
+gmsc,Retail credit,0.8,distilled,0.0346
+gmsc,Retail credit,0.9,teacher,0.034
+gmsc,Retail credit,0.9,distilled,0.0484
+taiwan,Card default,0.5,teacher,0.0967
+taiwan,Card default,0.5,distilled,0.1033
+taiwan,Card default,0.6,teacher,0.1061
+taiwan,Card default,0.6,distilled,0.1139
+taiwan,Card default,0.7,teacher,0.1183
+taiwan,Card default,0.7,distilled,0.1252
+taiwan,Card default,0.8,teacher,0.1388
+taiwan,Card default,0.8,distilled,0.1435
+taiwan,Card default,0.9,teacher,0.1737
+taiwan,Card default,0.9,distilled,0.1809

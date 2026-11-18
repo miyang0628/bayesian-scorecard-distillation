@@ -1,0 +1,25 @@
+key,Domain,PDO,grid,probMAD,dAUC,migration,nscores
+telco,Telecom churn,40,1,0.0021,0.0001,0.02,377
+telco,Telecom churn,20,1,0.0055,0.0002,0.065,204
+telco,Telecom churn,20,5,0.0199,0.0006,0.243,48
+telco,Telecom churn,10,10,0.11,-0.0475,0.692,8
+adult,Income,40,1,0.0015,-0.0001,0.018,624
+adult,Income,20,1,0.0022,-0.0,0.026,321
+adult,Income,20,5,0.0108,-0.0004,0.123,72
+adult,Income,10,10,0.0526,-0.0101,0.411,19
+corporate,Corporate rating,40,1,0.0024,-0.0006,0.025,255
+corporate,Corporate rating,20,1,0.0047,0.0008,0.057,187
+corporate,Corporate rating,20,5,0.0342,-0.0086,0.308,51
+corporate,Corporate rating,10,10,0.1492,-0.0403,0.714,14
+creditrisk,Consumer loan,40,1,0.0012,0.0,0.021,553
+creditrisk,Consumer loan,20,1,0.0033,-0.0001,0.042,294
+creditrisk,Consumer loan,20,5,0.0146,-0.001,0.199,64
+creditrisk,Consumer loan,10,10,0.0501,-0.0083,0.557,17
+gmsc,Retail credit,40,1,0.0006,0.0,0.037,276
+gmsc,Retail credit,20,1,0.0012,-0.0001,0.065,142
+gmsc,Retail credit,20,5,0.0067,-0.0024,0.317,30
+gmsc,Retail credit,10,10,0.0199,-0.0213,0.796,5
+taiwan,Card default,40,1,0.0024,-0.0002,0.059,302
+taiwan,Card default,20,1,0.0039,0.0008,0.083,160
+taiwan,Card default,20,5,0.0444,-0.0004,0.417,38
+taiwan,Card default,10,10,0.0663,-0.044,0.759,7

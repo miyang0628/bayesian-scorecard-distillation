@@ -1,0 +1,7 @@
+domain,bayes_PDO,bayes_grid,mean_grade_stability_prob,frac_cases_stable_ge_0p9
+Telecom churn,40,1,0.716,0.141
+Income,40,1,0.881,0.622
+Corporate rating,40,1,0.409,0.047
+Consumer loan,40,1,0.825,0.41
+Retail credit,40,1,0.84,0.47
+Card default,40,1,0.619,0.19

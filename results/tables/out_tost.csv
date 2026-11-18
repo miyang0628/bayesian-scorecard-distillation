@@ -1,0 +1,7 @@
+domain,auc_diff,se,ci90,equivalent_0p01
+Telecom churn,-0.0001,0.0006,"[-0.001,0.001]",True
+Income,0.0003,0.0002,"[-0.000,0.001]",True
+Corporate rating,0.0007,0.0011,"[-0.001,0.003]",True
+Consumer loan,0.0023,0.0007,"[0.001,0.004]",True
+Retail credit,0.002,0.0006,"[0.001,0.003]",True
+Card default,0.0034,0.001,"[0.002,0.005]",True
